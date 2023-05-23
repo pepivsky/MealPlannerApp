@@ -1,4 +1,4 @@
-package Stage1
+package mealPlanner
 
 import java.util.*
 
